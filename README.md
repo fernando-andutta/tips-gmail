@@ -2,12 +2,12 @@
 
 Information below relates to adjusting searches through emails in gmail. 
 
-Applications
+<bold>Applications</bold>
 
 gain space in your gmail account by deleting emails with attachments, old material, emails from removed contacts and so on. 
 find some needed information.
 
-1.1. Labels
+<h2 align="left">1.1. Labels</h2>
 For single-label use: "label:NAME"
 Note: it provides emails under the label (TITLE1).
 

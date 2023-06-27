@@ -25,7 +25,7 @@ Sometimes you may have emails already stored under specific labels. Therefore, y
 
 * For single-label use:
 
-  <b>label:NAME</b>
+  <b>label:TITLE1</b>
 
 <b>Note:</b> it provides emails under the label (TITLE1).
 

@@ -11,24 +11,24 @@ find some needed information.
 
 <h2 align="left">1.1. Labels</h2>
 
-For single-label use: <b>"label:NAME"</b>
+For single-label use: <b>label:NAME</b>
 
 Note: it provides emails under the label (TITLE1).
 
-For multiple-label use (OR): "label:TITLE1" or "label:TITLE2"
+For multiple-label use (OR): <b>label:TITLE1</b> or <b>label:TITLE2</b>
 Note: it provides emails under at least one label (inside TITLE1 or TITLE2).
 
-For multiple-label use (AND): "label:TITLE1" and "label:TITLE2"
+For multiple-label use (AND): <b>label:TITLE1" and "label:TITLE2</b>
 Note: it provides emails under both labels  (inside TITLE1 and TITLE2).
 
 <h2 align="left">1.2. File-type</h2>
 For single-filetype use: "Filename:pdf"
 Note: it provides emails containing file-type (of format .pdf).
 
-For multiple-filetype (OR) use: "Filename:pdf" or "Filename:txt"
+For multiple-filetype (OR) use: <b>Filename:pdf or "Filename:txt</b>
 Note: it provides emails containing at least one of these two file-types (of format .pdf or .txt).
 
-For multiple-filetype (AND) use: "Filename:pdf" and "Filename:txt"
+For multiple-filetype (AND) use: <b>Filename:pdf and Filename:txt</b>
 Note: it provides emails that must contain these two file-types (of format .pdf and .txt).
 
 <h2 align="left">1.3. File-size (with and without attachment)</h2>

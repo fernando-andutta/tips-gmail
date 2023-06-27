@@ -74,6 +74,7 @@ Use the indicated button on the right of the search-area (see image from item 1.
 <h2 align="left">1.6. From or to someone within a period</h2>
 
 * For emails from someone in a period use:
+
   <b>from:senderemail@example.com after:2020/12/1 before:2020/12/30</b>
 
 * For emails to someone in a period use: <b>to:senderemail@example.com after:2020/12/1 before:2020/12/30</b>

@@ -10,7 +10,9 @@ gain space in your gmail account by deleting emails with attachments, old materi
 find some needed information.
 
 <h2 align="left">1.1. Labels</h2>
-For single-label use: "label:NAME"
+
+For single-label use: <span style="background-color:yellow">"label:NAME"</span>
+
 Note: it provides emails under the label (TITLE1).
 
 For multiple-label use (OR): "label:TITLE1" or "label:TITLE2"

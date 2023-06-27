@@ -11,6 +11,8 @@ find some needed information.
 
 <h2 align="left">1.1. Labels</h2>
 
+Sometimes you may have emails already stored under specific labels. Therefore, you can consider the following:
+
 * For single-label use: <b>label:NAME</b>
 
 <b>Note:</b> it provides emails under the label (TITLE1).

@@ -21,7 +21,7 @@ Note: it provides emails under at least one label (inside TITLE1 or TITLE2).
 
 For multiple-label use (AND): <b>label:TITLE1" and "label:TITLE2</b>
 
-*Note: it provides emails under both labels  (inside TITLE1 and TITLE2).
+**<b>Note:</b> it provides emails under both labels  (inside TITLE1 and TITLE2).
 
 <h2 align="left">1.2. File-type</h2>
 

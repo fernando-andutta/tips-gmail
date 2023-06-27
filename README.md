@@ -15,6 +15,8 @@ find some needed information.
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Search_emails_of_size_in_range_with_attachments_PDF.jpg/799px-Search_emails_of_size_in_range_with_attachments_PDF.jpg" alt="team-coding" height="61" width="799" /></a>
 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Search_emails_of_size_in_range_with_attachments-_example.jpg/796px-Search_emails_of_size_in_range_with_attachments-_example.jpg" alt="team-coding" height="63" width="796" /></a>
+
 <h2 align="left">1.1. Labels</h2>
 
 Sometimes you may have emails already stored under specific labels. Therefore, you can consider the following:

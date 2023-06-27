@@ -2,7 +2,7 @@
 
 Information below relates to adjusting searches through emails in gmail. 
 
-<img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Search_emails_between_a_period_in_gmail.jpg/800px-Search_emails_between_a_period_in_gmail.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Search-box_gmail_example.jpg/800px-Search-box_gmail_example.jpg)" alt="team-coding" height="266" width="400" /></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Search-box_gmail_example.jpg/800px-Search-box_gmail_example.jpg" alt="team-coding" height="266" width="400" /></a>
 
 <b>Applications</b>
 

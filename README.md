@@ -1,4 +1,4 @@
-1. Optimizing searches in gmail
+<h1 align="left">1. Optimizing searches in gmail</h1>
 
 Information below relates to adjusting searches through emails in gmail. 
 

@@ -77,7 +77,9 @@ Use the indicated button on the right of the search-area (see image from item 1.
 
 * For emails to someone in a period use: <b>to:senderemail@example.com after:2020/12/1 before:2020/12/30</b>
 
-<h2 align="left">1.6. From or to someone within a period and attachment</h2>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Search_emails_to_someone_within_period_-_example.jpg/800px-Search_emails_to_someone_within_period_-_example.jpg" alt="team-coding" height="63" width="800" /></a>
+
+<h2 align="left">1.7. From or to someone within a period and attachment</h2>
 
 * For emails from someone in a period use: <b>from:senderemail@example.com has:attachment after:2020/12/1 before:2020/12/30</b>
 

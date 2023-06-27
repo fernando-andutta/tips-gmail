@@ -83,7 +83,7 @@ Use the indicated button on the right of the search-area (see image from item 1.
 
 * For emails to someone in a period use: <b>to:senderemail@example.com has:attachment after:2020/12/1 before:2020/12/30</b>
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Search_emails_to_someone_with_attachment_within_period_-_example.jpg/798px-Search_emails_to_someone_with_attachment_within_period_-_example.jpg" alt="team-coding" height="30" width="399" /></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Search_emails_to_someone_with_attachment_within_period_-_example.jpg/798px-Search_emails_to_someone_with_attachment_within_period_-_example.jpg" alt="team-coding" height="61" width="798" /></a>
 
 <h2 align="left">1.8. Unread emails</h2>
 

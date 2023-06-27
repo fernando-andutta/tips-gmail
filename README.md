@@ -13,15 +13,15 @@ find some needed information.
 
 For single-label use: <b>label:NAME</b>
 
-Note: it provides emails under the label (TITLE1).
+<b>Note:</b> it provides emails under the label (TITLE1).
 
 For multiple-label use (OR): <b>label:TITLE1</b> or <b>label:TITLE2</b>
 
-Note: it provides emails under at least one label (inside TITLE1 or TITLE2).
+<b>Note:</b> it provides emails under at least one label (inside TITLE1 or TITLE2).
 
 For multiple-label use (AND): <b>label:TITLE1" and "label:TITLE2</b>
 
-**<b>Note:</b> it provides emails under both labels  (inside TITLE1 and TITLE2).
+<b>Note:</b> it provides emails under both labels  (inside TITLE1 and TITLE2).
 
 <h2 align="left">1.2. File-type</h2>
 
@@ -41,19 +41,19 @@ For multiple-filetype (AND) use: <b>Filename:pdf and Filename:txt</b>
 
 For files above a size use: larger:3M
 
-Note: it provides emails taking more than 3M of space.
+<b>Note:</b> it provides emails taking more than 3M of space.
 
 For files below a size use: larger:3M
 
-Note: it provides emails taking less than 3M of space.
+<b>Note:</b> it provides emails taking less than 3M of space.
 
 For files taking a space between a size use: larger:3M and smaller:5M
 
-Note: it provides emails taking larger than 3M and smaller than 5M of space.
+<b>Note:</b> it provides emails taking larger than 3M and smaller than 5M of space.
 
 For files with attached use: has:attachment
 
-Note: it provides emails containing attachments. Therefore, you can adjust the attachment sizes using the options above.
+<b>Note:</b> it provides emails containing attachments. Therefore, you can adjust the attachment sizes using the options above.
 
 <h2 align="left">1.4. Dates</h2>
 

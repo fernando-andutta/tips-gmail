@@ -6,7 +6,7 @@ Information below relates to adjusting searches through emails in gmail.
 
 <b>Applications</b>
 
-gain space in your gmail account by deleting emails with attachments, old material, emails from removed contacts and so on. 
+To gain space in your gmail account by deleting emails with attachments, old material, emails from removed contacts and so on. You can also use these to
 find some needed information.
 
 <h2 align="left">1.1. Labels</h2>

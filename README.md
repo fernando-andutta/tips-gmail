@@ -49,6 +49,8 @@ For a date-before (before:year/month/day) use: before:2021/12/30
 For a date-between (add space) use: before:2020/12/30 after:2020/12/1
 or after:2020/12/1 before:2020/12/30 
 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Search_emails_between_a_period_in_gmail.jpg/800px-Search_emails_between_a_period_in_gmail.jpg" alt="team-coding" height="58" width="800" /></a>
+
 <h2 align="left">1.5. Date newest and oldest</h2>
 Use the indicated button on the right of the search-area (see image from item 1.4).
 

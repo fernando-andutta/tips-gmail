@@ -11,7 +11,7 @@ find some needed information.
 
 <h2 align="left">1.1. Labels</h2>
 
-“*”For single-label use: <b>label:NAME</b>
+* For single-label use: <b>label:NAME</b>
 
 <b>Note:</b> it provides emails under the label (TITLE1).
 

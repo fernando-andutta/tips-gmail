@@ -9,6 +9,9 @@ Information below relates to adjusting searches through emails in gmail.
 To gain space in your gmail account by deleting emails with attachments, old material, emails from removed contacts and so on. You can also use these to
 find some needed information.
 
+<b>Examples</b>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Search_emails_of_size_in_range_with_attachments_PDF_or_7Z.jpg/798px-Search_emails_of_size_in_range_with_attachments_PDF_or_7Z.jpg" alt="team-coding" height="80" width="798" /></a>
+
 <h2 align="left">1.1. Labels</h2>
 
 Sometimes you may have emails already stored under specific labels. Therefore, you can consider the following:

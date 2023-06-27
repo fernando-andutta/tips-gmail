@@ -71,12 +71,13 @@ Sometimes you may have emails already stored under specific labels. Therefore, y
 
 Use the indicated button on the right of the search-area (see image from item 1.4).
 
-<h2 align="left">1.6. From and to someone</h2>
+<h2 align="left">1.6. From or to someone in a period</h2>
 
-* For emails from someone use: <b>from:senderemail@example.com</b>
+* For emails from someone in a period use: <b>from:senderemail@example.com after:2020/12/1 before:2020/12/30 before:2020/12/30</b>
 
-* For emails to someone use: <b>to:senderemail@example.com</b> 
+* For emails to someone in a period use: <b>to:senderemail@example.com after:2020/12/1 before:2020/12/30 before:2020/12/30</b>
 
-<h2 align="left">1.7. Unread emails</h2>
+
+<h2 align="left">1.8. Unread emails</h2>
 
 * For emails from someone use: <b>is:unread</b>

@@ -11,11 +11,19 @@ find some needed information.
 
 <b>Examples</b>
 
+<b>Note:</b> Request to list emails taking between 3M and 5M in space. In addition to provide attachements (extension .PDF or .7Z).
+
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Search_emails_of_size_in_range_with_attachments_PDF_or_7Z.jpg/798px-Search_emails_of_size_in_range_with_attachments_PDF_or_7Z.jpg" alt="team-coding" height="60" width="798" /></a>
+
+<b>Note:</b> Request to list emails taking between 3M and 5M in space. In addition to provide attachements (extension .PDF).
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Search_emails_of_size_in_range_with_attachments_PDF.jpg/799px-Search_emails_of_size_in_range_with_attachments_PDF.jpg" alt="team-coding" height="61" width="799" /></a>
 
+<b>Note:</b> Request to list emails taking between 3M and 5M in space. In addition to provide some kind of attachement.
+
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Search_emails_of_size_in_range_with_attachments-_example.jpg/796px-Search_emails_of_size_in_range_with_attachments-_example.jpg" alt="team-coding" height="63" width="796" /></a>
+
+<b>Note:</b> Request to list emails taking between 3M and 5M in space.
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Search_emails_of_size_in_range_-_example.jpg/800px-Search_emails_of_size_in_range_-_example.jpg" alt="team-coding" height="63" width="800" /></a>
 

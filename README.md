@@ -133,7 +133,7 @@ Use the indicated button on the right of the search-area (see image from item 1.
 
   <b>to:senderemail@example.com after:2020/12/1 before:2020/12/30</b>
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Search_emails_to_someone_within_period_-_example.jpg/800px-Search_emails_to_someone_within_period_-_example.jpg" alt="team-coding" height="63" width="800" /></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Search_emails_to_someone_within_period_-_example.jpg/798px-Search_emails_to_someone_within_period_-_example.jpg" alt="team-coding" height="63" width="800" /></a>
 
 <h2 align="left">1.7. From or to someone within a period and attachment</h2>
 
